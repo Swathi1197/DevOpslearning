@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi hello world 
+=======
+hello worldhi am swathi 
+>>>>>>> f9fe3c76496cb67a1da497a0cd9f12b3b7fc70ce
